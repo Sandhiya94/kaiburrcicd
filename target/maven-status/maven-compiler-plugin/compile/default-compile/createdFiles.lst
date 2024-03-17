@@ -1,0 +1,5 @@
+com\task\kaiburrassessment\model\Task.class
+com\task\kaiburrassessment\controller\TaskController.class
+com\task\kaiburrassessment\service\ServiceImpl.class
+com\task\kaiburrassessment\KaiburrassessmentApplication.class
+com\task\kaiburrassessment\repository\TaskRepository.class
