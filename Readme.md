@@ -36,39 +36,39 @@ The CD Pipeline is triggered after the completion of the CI Pipeline. It is defi
 
 Flask Application Actions
 
-![image-20240320085754666](scr\image-20240320085754666.png)
+![image-20240320085754666](scr/image-20240320085754666.png)
 
 CI Pipeline(Spring boot)
 
-![image-20240320090205845](scr\image-20240320090205845.png)
+![image-20240320090205845](scr/image-20240320090205845.png)
 
 CD Pipeline(Spring boot)
 
-![image-20240320085952569](scr\image-20240320085952569.png)
+![image-20240320085952569](scr/image-20240320085952569.png)
 
 Springboot Actions:
 
-![image-20240320085712356](scr\image-20240320085712356.png)
+![image-20240320085712356](scr/image-20240320085712356.png)
 
 CD Pipeline(Spring boot)
 
-![image-20240320090441133](scr\image-20240320090441133.png)
+![image-20240320090441133](scr/image-20240320090441133.png)
 
 
 
 CI Pipeline(Spring boot)
 
-![image-20240320090537375](scr\image-20240320090537375.png)
+![image-20240320090537375](scr/image-20240320090537375.png)
 
 #### Runners
 
-![image-20240320090623403](scr\image-20240320090623403.png)
+![image-20240320090623403](scr/image-20240320090623403.png)
 
-![image-20240320090652709](scr\image-20240320090652709.png)
+![image-20240320090652709](scr/image-20240320090652709.png)
 
 #### Application Screen from EC2
 
-![image-20240320090856483](scr\image-20240320090856483.png)
+![image-20240320090856483](scr/image-20240320090856483.png)
 
 ```
 
