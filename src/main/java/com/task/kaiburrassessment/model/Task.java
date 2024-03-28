@@ -9,7 +9,7 @@ import org.springframework.data.mongodb.core.mapping.Field;
 import lombok.Data;
 //import lombok.NoArgsConstructor;
 @Document(collection = "tasks")
-@Data
+//@Data
 //@AllArgsConstructor
 //@NoArgsConstructor
 public class Task {

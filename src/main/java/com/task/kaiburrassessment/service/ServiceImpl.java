@@ -66,7 +66,7 @@ public class ServiceImpl {
 	    
 	    public String deleteTask(String taskId){
 	        taskRepository.deleteById(taskId);
-	        return taskId+"Deleted ";
+	        return taskId+"Deleted. ";
 	    }
 
 }
